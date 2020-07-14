@@ -1,3 +1,4 @@
 {
-  "changeLaterPrivateKey": ""
+  "jwtPrivateKey": "",
+  "db": "mongodb://localhost/vidly"
 }
